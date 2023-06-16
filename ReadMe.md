@@ -9,21 +9,18 @@
 
 -> To run tests on the server
 
-3. npm test
-
-4. Ctrl + c to terminate the tests
 
 -> To run the server 
 
-5. npm start 
+3. npm start 
 
-server will start at localhost:4000
+server will start at localhost:3000
 
 
 
-# ***DEPLOYED URL OF BACKEND ***
+# ***DEPLOYED URL OF FRONTEND ***
  
-  1. Open the url in the browser : https://petstore-client.onrender.com
+  1. Open the url in the browser : https://candid-chebakia-a2656a.netlify.app/
 
 
 
