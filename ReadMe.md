@@ -5,7 +5,7 @@
 
 -> Install all dependencies
 
-2. npm i
+2. npm i / npm i force
 
 -> To run tests on the server
 
